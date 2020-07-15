@@ -1,3 +1,3 @@
 # Excel-Clone
 
-This repo contains the code to clone Microsoft Excel
+This repository contains the code to clone Microsoft Excel
